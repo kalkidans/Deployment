@@ -30,7 +30,7 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.2.2</muleVersion>
-						<username>kaly_s</username>
+						<username>kaly_y</username>
 						<password>Kal567383</password>
 						<applicationName>scattergather12</applicationName>
 						<environment>Sandbox</environment>
